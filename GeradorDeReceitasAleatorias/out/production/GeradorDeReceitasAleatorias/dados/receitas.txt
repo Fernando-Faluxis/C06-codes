@@ -1,0 +1,6 @@
+Brigadeiro;doce;Rápido;20;leite condensado,chocolate,manteiga
+Bolo de cenoura;doce;Tradicional;50;cenoura,farinha,açúcar,ovo,fermento
+Panqueca;salgada;Caseiro;25;leite,ovo,farinha,sal
+Omelete;salgada;Fácil;10;ovo,sal,queijo,tomate
+Strogonoff;salgada;Almoço;30;carne,creme de leite,molho de tomate,ketchup,sal,mostarda
+Pudim;doce;sobremesa;40;leite,ovo,leite condensado,açucar
